@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v10.safetensors",
+    "default_model": "realisticStockPhoto_v10.safetensors"
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,6 +39,9 @@
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors"
+        "realisticVisionV51_v51VAE.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticVisionV51_v51VAE.safetensors"
+        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
+        "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
